@@ -13,9 +13,9 @@
 
 ### Set path and requisite variables.
 # Kaldi root: Where is your kaldi directory?
-kaldi=/home/kaldi
+kaldi=/cotent/kaldi
 # Source data: Where is your source (wavefile) data directory?
-source=/path/to/the/krs/dataset
+source=/content/dataset
 # Log file: Log file will be saved with the name set below.
 logfile=1st_test
 log_dir=log
