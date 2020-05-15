@@ -114,7 +114,7 @@ echo DATA_ROOT: $source | tee -a $log_dir/$logfile.log
 START=`date +%s`
 
 # This step will generate path.sh based on written path above.
-. path.sh $kaldi
+. ./path.sh $kaldi
 . local/check_code.sh $kaldi
 
 # Prepare data for training.
