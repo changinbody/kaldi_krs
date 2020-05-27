@@ -13,7 +13,7 @@
 
 ### Set path and requisite variables.
 # Kaldi root: Where is your kaldi directory?
-kaldi=/cotent/kaldi
+kaldi=/content/kaldi
 # Source data: Where is your source (wavefile) data directory?
 source=/content/dataset
 # Log file: Log file will be saved with the name set below.
